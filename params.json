@@ -1,0 +1,6 @@
+{
+  "name": "Arssi",
+  "tagline": "Irssi on Android. Sort of.",
+  "body": "### What is it\r\nArssi is the best way to use your remote irssi on an Android device.\r\nIt consists of three parts:\r\n\r\n1. An irssi script handles low-level irssi signals and passes them to\r\n2. A Django app that is used for communication between irssi and\r\n3. An Android app that is the actual client you want to use\r\n\r\n### Setting it all up\r\nTODO",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
